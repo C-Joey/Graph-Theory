@@ -68,7 +68,7 @@ for i in range(len(M_topo)):
 
 ```python
 print("=== Dijkstra ===")
-print("Let's find the shortest-path from 1 to 6:")
+print("Let's find the shortest-path from 0 to 5:")
 
 node1 = input("please enter node1\n")
 node2 = input("please enter node2\n")
@@ -81,7 +81,7 @@ print('The shortest path is ', Shortest_path)
 ```
 
     === Dijkstra ===
-    Let's find the shortest-path from 1 to 6:
+    Let's find the shortest-path from 0 to 5:
     please enter node1
     0
     please enter node2
